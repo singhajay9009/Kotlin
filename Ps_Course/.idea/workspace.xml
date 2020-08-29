@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef653c19-0998-468b-9e08-8e09e335b3cb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/ps/kotlin/demo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ps/kotlin/NullCheck.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ps/kotlin/TryCatch.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ps/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ps/kotlin/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ps/kotlin/Person.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ps/kotlin/Person.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,15 +20,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="98">
               <caret line="16" column="10" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ps/kotlin/ClassWithConstructor.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -70,11 +60,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ps/kotlin/ifExpression.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+            <state relative-caret-position="154">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ps/kotlin/TryCatch.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ps/kotlin/NullCheck.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -120,7 +128,9 @@
         <option value="$PROJECT_DIR$/src/com/ps/kotlin/Main.kt" />
         <option value="$PROJECT_DIR$/src/com/ps/kotlin/demo.kt" />
         <option value="$PROJECT_DIR$/out/production/Ps_Course/com/ps/kotlin/ifExpression.kt" />
+        <option value="$PROJECT_DIR$/src/com/ps/kotlin/NullCheck.kt" />
         <option value="$PROJECT_DIR$/src/com/ps/kotlin/ifExpression.kt" />
+        <option value="$PROJECT_DIR$/src/com/ps/kotlin/TryCatch.kt" />
       </list>
     </option>
   </component>
@@ -181,7 +191,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.IfExpressionKt">
+  <component name="RunManager" selected="Kotlin.com.ps.kotlin.TryCatchKt">
     <configuration name="IfExpressionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Ps_Course" />
       <option name="VM_PARAMETERS" />
@@ -221,8 +231,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.ps.kotlin.NullCheckKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Ps_Course" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.ps.kotlin.NullCheckKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.ps.kotlin.TryCatchKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Ps_Course" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.ps.kotlin.TryCatchKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.com.ps.kotlin.TryCatchKt" />
+        <item itemvalue="Kotlin.com.ps.kotlin.NullCheckKt" />
         <item itemvalue="Kotlin.IfExpressionKt" />
         <item itemvalue="Kotlin.com.ps.kotlin.DemoKt" />
         <item itemvalue="Kotlin.com.ps.kotlin.MainKt" />
@@ -247,7 +285,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598636228522</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Kotlin adding some programs">
+      <created>1598671670284</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598671670284</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -279,7 +324,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Kotlin basic programs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kotlin basic programs" />
+    <MESSAGE value="Kotlin adding some programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kotlin adding some programs" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/ps/kotlin/ClassWithConstructor.java" />
@@ -339,10 +385,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ps/kotlin/NullCheck.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ps/kotlin/ifExpression.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+        <state relative-caret-position="154">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ps/kotlin/TryCatch.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
         </state>
       </provider>
     </entry>
