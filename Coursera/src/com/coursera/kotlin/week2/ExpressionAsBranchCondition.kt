@@ -2,8 +2,6 @@ package com.coursera.kotlin.week2
 
 
 
-
-
 enum class Color2 {
     BLUE, ORANGE, RED, PURPLE, BLACK
 }
