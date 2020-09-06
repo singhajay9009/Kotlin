@@ -13,6 +13,8 @@ fun main(){
     usinglambdaAsParam()
 
     lambdaFilter()
+
+    lambdaRun()
 }
 
 fun usinglambdaAsParam() {
@@ -42,4 +44,10 @@ fun lambdaFilter(){
     val result2 = list.filter { i: Int -> i % 5 == 0 }
 
     println(result2)
+}
+
+fun lambdaRun(){
+
+    // run method can be called to execute lambda directly
+    run{println("Hello Lambda!")}
 }
