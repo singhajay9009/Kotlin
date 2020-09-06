@@ -13,4 +13,6 @@ fun main() {
 
     var e = null
     println(e as Int?)  // return null
+
+
 }
