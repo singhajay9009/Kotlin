@@ -51,3 +51,4 @@ fun lambdaRun(){
     // run method can be called to execute lambda directly
     run{println("Hello Lambda!")}
 }
+
