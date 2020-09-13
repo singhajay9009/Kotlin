@@ -6,7 +6,7 @@ import java.lang.Math.pow
  * Task #1. Find all the drivers who performed no trips.
  */
 fun TaxiPark.findFakeDrivers(): Set<Driver> =
-            this.allDrivers.filter{
+            allDrivers.filter{
                 driver -> this.trips.none{
                 trip ->  trip.driver.name == driver.name
             }

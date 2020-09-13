@@ -32,7 +32,7 @@ files:
   visible: true
   placeholders:
   - offset: 0
-    length: 2695
+    length: 2690
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -41,7 +41,7 @@ files:
     selected: true
     status: Unchecked
   - offset: 0
-    length: 2695
+    length: 2690
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -50,7 +50,7 @@ files:
     selected: true
     status: Unchecked
   - offset: 0
-    length: 2695
+    length: 2690
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -59,7 +59,7 @@ files:
     selected: true
     status: Unchecked
   - offset: 0
-    length: 2695
+    length: 2690
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -68,7 +68,7 @@ files:
     selected: false
     status: Unchecked
   - offset: 0
-    length: 2695
+    length: 2690
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -76,7 +76,7 @@ files:
     initialized_from_dependency: false
     selected: false
     status: Unchecked
-  - offset: 2835
+  - offset: 2830
     length: 929
     placeholder_text: TODO()
     initial_state:
@@ -1463,6 +1463,9 @@ files:
 - name: assignmentKey
   visible: false
   learner_created: false
+- name: src/taxipark/Sample.kt
+  visible: true
+  learner_created: true
 feedback_link: https://www.coursera.org/learn/kotlin-for-java-developers/programming/xTPZT/taxi-park/discussions
 status: Unchecked
 feedback:
